@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"i am a gud girl,u know"-renuka
 Use the left arrow to go back!
